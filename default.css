@@ -479,7 +479,7 @@ ul.contact li a.icon-rss:before
 		padding: 10em 0em;
 		padding-top: 5em;
 		width: 100%;
-    	height: 100%;
+    	/*height: 100%;*/
 		background-image: url(images/banner.jpg);
 		background-position: center;
 		background-size: cover;
